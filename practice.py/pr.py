@@ -8,3 +8,4 @@ if qn == Y:
 elif qn == N:
     print("you are not allowed")
     
+    
